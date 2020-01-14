@@ -1,0 +1,172 @@
+Attributes
+ 
+
+Acceleration
+Determines how long it takes a player to reach his maximum top speed (defined by his Sprint Speed).
+
+ 
+
+Aggression
+This impacts how willing a player will be to perform standing and sliding tackles. More aggressive players will also push and pull the player they’re marking more.
+
+ 
+
+Agility
+Agility affects lots of little things for a player; mostly to do with dribbling. Players with high Agility will maintain their composure more when dribbling and being jostled. They will try to do more advanced moves like bicycle kicks and be able to perform skill moves faster. It also affects their running style; a high agility attribute will allow a player to run more smoothly.    
+
+ 
+
+For Goalkeepers, Agility affects the speed in which they can get up after making a save, and sets the maximum speed in which they can make a save.
+
+ 
+
+Balance
+A high balance attribute will help a player fight off tackles, helps a player win two player headers, and helps a player stay composed when being jostled or pushed and pulled. It also helps a player make faster turns while running, and helps a player recover faster from stumbling.
+
+ 
+
+Ball Control
+Players with high Ball control can keep the ball closer to them when they trap and dribble the ball. High ball control players can also perform special moves, like scoop passes, backheel shots and passes and Bicycle kicks. High ball control players will mistrap the ball less as well.
+
+ 
+
+Crossing
+Crossing affects the speed and accuracy of a players cross. The crossing attribute also affects a players positioning during a cross, and players with a low crossing attribute are more likely to stick near the center of the pitch when positioning for an attack.
+
+ 
+
+Curve
+The curve attribute defines how much curve a player can put on a shot. This is used mostly with free kicks and finesse shots.
+
+ 
+
+Dribbling
+Simply put, Dribbling makes your players dribble better. More specifically, it enables a player to take faster touches on the ball, allows them to make faster dribbling turns, and gives them the ability to recover the ball from tackles better.
+
+ 
+
+Finishing
+A high Finishing attribute will put less error on shots that you take when you are close to the goal.
+
+ 
+
+Free Kick Accuracy
+This determines how much error is applied when your player takes a free kick. If you have a high attribute, shots taken from free kicks will be on target more frequently.
+
+ 
+
+Heading Accuracy
+When a player takes a shot with his head, the amount of error applied is based on his Heading Accuracy. It also helps a player react faster to headers, and players with high Heading Accuracy are more likely to receive crosses from the CPU.
+
+ 
+
+Jumping
+Players with a high Jumping attribute are more likely to favor taking headers, and will have a better chance of winning aerial balls. Players with good Jumping attributes will also position themselves in dangerous positions during corner kicks.
+
+ 
+
+Goalkeepers also use the Jumping attribute, and a High jumping attribute will help them launch themselves farther when trying to make a leaping save.
+
+ 
+
+Long Passing
+Long Passing helps players be more accurate when passing using lobbed passes. If a player has a better Long Passing attribute than Dribbling or Short Passing, the CPU will look to take lob passes more.
+
+ 
+
+Long Shots
+When a player is farther away from the goal (28 yards or more), they will use their Long Shots attribute to determine how much error gets applied to the shot.
+
+ 
+
+Marking
+Marking is primarily a defensive stat, and it determines a lot of factors about how well a player reacts to the opponent in which they are marking. A player with a high Marking attribute will have better reactions to an opponent's dribbling moves and will press closer to opponents  and with more accuracy.
+
+ 
+
+Penalties
+The Penalties attribute determines how accurate a player is when taking penalty kicks. A high Penalties attribute means players will stay composed and hit their target more often during a penalty kick.
+
+ 
+
+Positioning
+Positioning helps your player be in the correct spot on the pitch. It also helps them be in the correct spot for a two player header battle, and determines the effectiveness of a players attacking and supporting runs.
+
+ 
+
+Reactions
+The Reactions attribute helps a player correctly read the ball trajectory and allows him the ability to trap quick and sudden balls. It also helps a player win two player headers, and lets defenders perform faster clearances and tackles.
+
+ 
+
+Goalkeepers also use the Reactions attribute, a high reaction attribute will help a goalkeeper launch save animations faster.
+
+ 
+
+Short Passing
+A high Short Passing attribute means you player can deliver accurate ground passes to their teammates and lets a player launch passes faster. A high Short Passing attribute also enables fancy passes, like backheel passes. The CPU is more likely to play short passes if the player they control has a high Short Passing attribute.
+
+ 
+
+Shot Power
+Shot power determines the maximum speed that your shot can reach. The higher the shot power, the faster the maximum shot speed. A player will always try to take the fastest shot possible.
+
+ 
+
+Sliding Tackle
+Sliding Tackle attribute determines how accurate your player will be when doing a Sliding Tackle. The higher the attribute, the more consistently your player will take the ball when slide tackling. If a player has a high Sliding Tackle attribute, they will prefer taking sliding tackles over standing tackles.
+
+ 
+
+Sprint Speed
+Sprint Speed determines a players maximum top speed when sprinting.
+
+ 
+
+Standing Tackle
+The Standing Tackle attribute determines how accurate your player will be when doing a standing tackle. The higher the attribute, the more consistently your player will take the ball when performing a standing tackling.
+
+ 
+
+Strength
+Strength helps players win physical battles (like jostling, shielding, and two player headers). A defender with high strength will push opponents off the ball easier, and an attacker with high strength will be more resilient to stumbling, barge tackles, and being pushed and pulled. It also impacts the maximum speed you can move while in a jostle.
+
+ 
+
+Interceptions
+Interceptions will help your player pick off close passes, as well as recover loose balls.
+
+ 
+
+Vision
+This attribute helps a player be more aware of his immediate surroundings. It will give them a bonus to short and long passing. They will make more effort to get close balls that are loose, and allow them to make more accurate through passes.
+
+ 
+
+Volleys
+The Volleys attribute will help you player take more accurate shots when the ball is bouncing. It will also help players apply more spin to volley shots. A player with high Volleys attribute will prefer to take volleys instead of header shots.
+
+ 
+
+Goalkeeper Diving
+A good GK Diving stat will help the goalkeeper play faster, more accurate dives. It also helps a goalkeeper be more successful when diving at an attacker in a 1 on 1 situation.
+
+ 
+
+Goalkeeper Handling
+Handling increases the goalkeepers ability to grab the ball with his hands. A high handling attribute will cause the goalkeeper to be faster to grab the ball.
+
+ 
+
+Goalkeeper Kicking
+Goalkeeper Kicking defines how far a keeper can kick the ball during goal kicks and drop kicks.
+
+ 
+
+Goalkeeper Positioning
+Positioning affects how well the goalkeeper is at placing himself correctly in his goal. A goalkeeper with good positioning will more likely be in the correct place in his goal to defend against all types of shots… for example, a goalkeeper with great positioning will know when to rush the player in a 1 on 1, and when to stay on his line to avoid being chipped.
+
+ 
+
+Goalkeeper Reflexes
+Reflexes affect the goalkeepers ability to quickly react to shots or deflections. A player with high GK Reflex attributes will be able to better react to deflections, and be faster to react to shots, free kicks, and penalty kicks. They will also be faster when trying to dive at a players feet to strip the ball off them.
